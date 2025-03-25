@@ -2,9 +2,7 @@
 
 import numpy as np
 import numpy.testing as npt
-
-from inflammation.models import daily_mean
-
+import pytest
 
 '''
 def test_daily_mean_zeros():
